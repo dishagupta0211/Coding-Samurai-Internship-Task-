@@ -201,6 +201,6 @@ These files can be reused without retraining the model.
 
 ## 👩‍💻 Author
 
-Seema Gupta
+Disha Gupta
 
 Machine Learning Enthusiast | Python | SQL | Data Analytics | AI
