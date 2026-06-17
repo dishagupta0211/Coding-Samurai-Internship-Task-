@@ -204,3 +204,5 @@ These files can be reused without retraining the model.
 Disha Gupta
 
 Machine Learning Enthusiast | Python | SQL | Data Analytics | AI
+
+If you like this project, give it a ⭐ on GitHub
